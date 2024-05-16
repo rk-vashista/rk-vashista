@@ -6,10 +6,10 @@
 - 🔭 I’m currently working on **WebDev,ML**
 
 
-<img align="right" alt="Coding" width="450" src="https://media1.tenor.com/m/41I-iMyClCgAAAAC/programmer-programming.gif">
+<img align="right" alt="Coding" width="450" src="https://media1.tenor.com/m/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 
-![link](https://media1.tenor.com/m/41I-iMyClCgAAAAC/programmer-programming.gif)
+
 
 
 <p align="left">
