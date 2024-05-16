@@ -22,7 +22,7 @@
 
 
 
-## My GitHub Stats
+# My GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phineas-freak&show_icons=true&locale=en&layout=compact"alt="phineas-freak" /></p>  
 <br/>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=phineas-freak&show_icons=true&locale=en" alt="phineas-freak" /></p>
