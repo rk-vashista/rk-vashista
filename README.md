@@ -9,6 +9,7 @@
 
 
 
+# My GitHub Stats
 </p>
 
 <img align="right" alt="Coding" width="450" src="https://media1.tenor.com/m/41I-iMyClCgAAAAd/programmer-programming.gif">
@@ -22,7 +23,7 @@
 
 
 
-# My GitHub Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phineas-freak&show_icons=true&locale=en&layout=compact"alt="phineas-freak" /></p>  
 <br/>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=phineas-freak&show_icons=true&locale=en" alt="phineas-freak" /></p>
