@@ -5,6 +5,15 @@
 
 - 🔭 I’m currently working on **WebDev,ML**
 
+# Projects
+- **[TTS-Story_Generator](https://github.com/rk-vashista/TTS-Story_Generator)** 🎧📜 - A versatile app that converts images into short stories and lifelike audio locally. Combines Hugging Face's image captioning, Groq's story generation, and Parler TTS for local TTS synthesis. Ideal for AI-driven projects with fast, reliable on-device TTS.
+- **[DiscordBot](https://github.com/rk-vashista/DiscordBot)** 🤖🎨 - Discord Image Generator Bot built in Python. Generates images from user prompts and sends them directly to Discord channels with embedded delivery.
+- **[chatApp](https://github.com/rk-vashista/chatApp)** 💬⚡ - A chatbot application built with SvelteKit, Firebase, and TailwindCSS. Uses the LLAMA 70b model for real-time chat functionality and secure authentication.
+- **[Sahara](https://github.com/rk-vashista/Sahara)** 🛍️💻 - A modern eCommerce platform built with Svelte and Tailwind CSS. Features Firebase authentication and a PostgreSQL backend, providing a seamless shopping experience.
+- **[Metroidvania](https://github.com/rk-vashista/Metroidvania)** 🎮🛠️ - Factory Escape Game built with Kaboom.js. Navigate rooms, avoid enemies, and escape the factory in this adventure game with levels, bosses, and obstacles.
+- **[Snake-AI](https://github.com/rk-vashista/Snake-AI)** 🐍🤖 - A reinforcement learning-based AI that plays the classic Snake game using a deep Q-network.
+
+
 <p align="left">
 
 
