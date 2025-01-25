@@ -33,10 +33,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rk-vashista&show_icons=true&locale=en&layout=compact"alt="rk-vashista" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rk-vashista&show_icons=true&locale=en&layout=compact"alt="rk-vashista-languages" /></p>  
 <br/>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rk-vashista&show_icons=true&locale=en" alt="rk-vashista" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rk-vashista&" alt="rk-vashista" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rk-vashista&show_icons=true&locale=en" alt="rk-vashista-stats" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rk-vashista&" alt="rk-vashista" /></p> -->
 
 ## SNAKE
 ![](https://raw.githubusercontent.com/rk-vashista/snake/output/github-contribution-grid-snake-dark.svg)
