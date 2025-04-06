@@ -3,7 +3,14 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
 <h3 align="center">Artificial Intelligence & Machine Learning engineering student</h3>
 
-- 🔭 I’m currently working on **WebDev,ML**
+- 🎓 AI & Machine Learning Student by day...
+- 💻 Code ninja by night (and sometimes by accident at 3 AM)
+- 🚀 Currently cooking up some spicy WebDev & ML projects
+- 🤖 Training machines to think (so I don’t have to)
+- 📊 I speak fluent Python, sarcasm, and occasional HTML
+- ☕ Powered by caffeine and chaos
+
+> “Will trade bugs for brain cells.”
 
 # Projects
 - **[UNet Image Segmentation](https://github.com/rk-vashista/UNet)** 🖼️🔍 - An implementation of the UNet model for biomedical image segmentation, as described in the paper "U-Net: Convolutional Networks for Biomedical Image Segmentation."
