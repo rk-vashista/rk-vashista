@@ -14,6 +14,7 @@
 
 # Projects
 - **[UNet Image Segmentation](https://github.com/rk-vashista/UNet)** 🖼️🔍 - An implementation of the UNet model for biomedical image segmentation, as described in the paper "U-Net: Convolutional Networks for Biomedical Image Segmentation."
+- **[What Did I Just Read?](https://github.com/rk-vashista/summarizer-Chrome-extentsion)** 🧠📖 - A Chrome extension that uses Groq's LLaMA 3 70B model to summarize web pages and create interactive quizzes. Features floating TL;DR buttons, bookmarking, analytics, and privacy-first local storage.
 - **[PDF Chat Assistant](https://github.com/rk-vashista/pdfChat)** 📚🤖 - A conversational assistant that interacts with PDF documents using AI. Built with Streamlit, LangChain, Hugging Face embeddings, FAISS, and Groq's LLM.
 - **[Fill in the Blanks](https://github.com/rk-vashista/NLP-Project)** ✍️📖 - An interactive language learning app that generates fill-in-the-blank exercises using Groq LLM. Provides instant feedback, real-time NLP analysis, and a responsive UI for an engaging experience.
 - **[TTS-Story_Generator](https://github.com/rk-vashista/TTS-Story_Generator)** 🎧📜 - A versatile app that converts images into short stories and lifelike audio locally. Combines Hugging Face's image captioning, Groq's story generation, and Parler TTS for on-device synthesis.
