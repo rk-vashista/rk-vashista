@@ -13,6 +13,7 @@
 > “Will trade bugs for brain cells.”
 
 # Projects
+- **[GestureBind](https://github.com/rk-vashista/guess)** ✋💻 - A cross-platform app that lets you control your system with hand gestures via webcam. Inspired by an Instagram reel where a dev shut down his PC with a finger flick, GestureBind turns your hands into shortcuts, app launchers, and command executors. Built with Python, OpenCV, MediaPipe, and PyQt5, it's intuitive, privacy-first, and works locally.
 - **[UNet Image Segmentation](https://github.com/rk-vashista/UNet)** 🖼️🔍 - An implementation of the UNet model for biomedical image segmentation, as described in the paper "U-Net: Convolutional Networks for Biomedical Image Segmentation."
 - **[What Did I Just Read?](https://github.com/rk-vashista/summarizer-Chrome-extentsion)** 🧠📖 - A Chrome extension that uses Groq's LLaMA 3 70B model to summarize web pages and create interactive quizzes. Features floating TL;DR buttons, bookmarking, analytics, and privacy-first local storage.
 - **[PDF Chat Assistant](https://github.com/rk-vashista/pdfChat)** 📚🤖 - A conversational assistant that interacts with PDF documents using AI. Built with Streamlit, LangChain, Hugging Face embeddings, FAISS, and Groq's LLM.
